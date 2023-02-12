@@ -1,6 +1,8 @@
 import pandas as pd
 import fitz
 from sentence_transformers import SentenceTransformer
+import nltk
+nltk.download('punkt')
 from nltk.tokenize import sent_tokenize
 import torch
 
