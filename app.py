@@ -6,11 +6,11 @@ from data import create_dataFrame
 import os
 os.environ["PYTHONIOENCODING"] = "utf-8"
 # Create a dataset with sentences and its embeddings for all the files
-data_path = r"C:\Users\personal\Projects\Britannica-Independence\Data"
+#data_path = r"C:\Users\personal\Projects\Britannica-Independence\Data"
 #create_dataFrame(data_path)
 
 # Read the DataFrame
-df = pd.read_csv(r"C:\Users\personal\Projects\Britannica-Independence\data.csv", 
+df = pd.read_csv(r"data.csv", 
                  encoding='ISO-8859-1', low_memory=False)
                 
 # Nmaes of the People
