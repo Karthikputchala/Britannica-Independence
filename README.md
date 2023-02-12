@@ -19,8 +19,10 @@ There are many people who are known to fight for the Independece of their countr
 ## Acknowledgements
 For Data: 
  - [BRITANNICA](https://www.britannica.com/biographies/history/independence)
+ 
 For Embeddings:
  - [all-mpnet-base-v2](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
+ 
 For similarity Measure:
  - [Cosine similarity](https://www.sbert.net/docs/usage/semantic_textual_similarity.html)
 
