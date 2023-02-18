@@ -10,9 +10,9 @@ There are many people who are known to fight for the Independece of their countr
 
 ## Screenshots
 
-![](https://github.com/Karthikputchala/Britannica-Independence/blob/main/Screenshots/Screenshot%20(36).png)
+![](https://github.com/Karthikputchala/Britannica-Independence/blob/main/Screenshots/Screenshot%20(40).png)
 
-![](https://github.com/Karthikputchala/Britannica-Independence/blob/main/Screenshots/Screenshot%20(37).png)
+![](https://github.com/Karthikputchala/Britannica-Independence/blob/main/Screenshots/Screenshot%20(41).png)
 ## Try it Out!
 
 [Britannica-Independence](https://karthikputchala-britannica-independence-app-fd09j4.streamlit.app/)
